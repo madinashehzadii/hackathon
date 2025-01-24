@@ -1,0 +1,47 @@
+nav{
+    border: 2px solid rgb(223, 158, 158);
+  width: 2000px;
+  height: 100px;
+  
+}
+.logo{
+    width: 150px;
+    height: 100px;
+    margin-right: 200px
+}
+button{
+      margin-left: 70px;     
+
+
+}
+div{
+    border: 1px solid  red;
+    height: 700px;
+    width: 2000px;
+}
+img{
+    border-radius: 5%;
+    width: 200px;
+    height: 200ox;
+     margin-left: 100em;
+    
+}
+h3{
+    color: black;
+}
+span{
+    color: green;
+}
+button{
+    border: 1px solid black;
+    width: 100px;
+    height: 50px;
+}
+head{
+    border: 1px solid red;
+
+}
+.saylani{
+    width: 500px;
+    height: 250px;
+}
